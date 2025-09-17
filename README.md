@@ -1,1 +1,1 @@
-# Monthy Hall with c
+# Monty Hall with c
